@@ -1,0 +1,5 @@
+title: Ma ville, ma région !
+description: Tout ce que vous avez toujours voulu savoir sur ma ville et ma région sans avoir jamais osé le demander.
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
